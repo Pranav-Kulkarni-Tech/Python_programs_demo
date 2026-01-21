@@ -31,9 +31,13 @@ Thank you for your interest in my work.
 
 ---
 
-![practice_programs_overview](https://github.com/user-attachments/assets/9adda880-026f-4ed2-b766-ff1f51384de4)
+
+---
+practice_programs_overview
+<img width="1876" height="857" alt="practice_session1" src="https://github.com/user-attachments/assets/ae1ef0c8-4a85-48d2-8cfe-9f0a7b09d3a2" />
 
 
+---
 
-
+<img width="1870" height="908" alt="pprograms_for_interview" src="https://github.com/user-attachments/assets/3af110fa-c800-4a8f-acb9-c42207929ff8" />
 
